@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #AFEEEE;
+    border-radius: 7px;
+    text-align: center;
+    padding: 3px;
+}
+
+header img {
+    border-radius: 6px;
+}
+
+h1 {
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(117, 119, 230);
+    background-color: #d3e7e7;
+    border: 2px solid rgb(68, 68, 189);
+}
+
+footer {
+    text-align: center;
+    background-color: skyblue;
+    border:solid skyblue;
+    border-radius: 5px;
+
+}
+
+footer p {
+    background-color: white;
+}
+
+main nav {
+    margin:20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav a {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: royalblue;
+    border: 3px solid slateblue;
+    border-radius: 20px;
+    background-color: #f0ffff;
+    padding: 10px;
+
+}
+
+main img,p {
+    text-align: center;
+}
+
